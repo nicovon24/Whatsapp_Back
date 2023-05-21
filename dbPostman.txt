@@ -1,0 +1,5 @@
+{
+  "name": "Fenano",
+  "image": "https://cuad.ask.fm/assets2/155/363/439/872/normal/avatar.jpg",
+  "allChats": [{"message": "Hola", "person": "Me"}]
+}
